@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# ROS 2 build files
+build/
+install/
+log/
+
+# Experiment results and recordings
+*.csv
+*.wav
+*.mp3
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
